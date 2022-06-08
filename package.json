@@ -1,0 +1,27 @@
+{
+  "name": "testoptbus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fiotz/teste-optibus.git"
+  },
+  "author": "Alan Floriano Teixeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fiotz/teste-optibus/issues"
+  },
+  "homepage": "https://github.com/Fiotz/teste-optibus#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "json-2-csv": "^3.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

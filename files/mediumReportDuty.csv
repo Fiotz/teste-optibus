@@ -1,0 +1,145 @@
+Duty Id,Start Time,End Time,Start Stop Description,End Stop Description
+1,03:25,11:39,Montclair Transit Center,Hope and 9th
+2,13:00,23:21,Pomona Transit Center,Montclair Transit Center
+3,03:30,10:40,Pomona Transit Center,Puente Hills Mall
+4,13:00,23:23,El Monte Station,Puente Hills Mall
+5,04:00,12:32,Pomona Transit Center,Puente Hills Mall
+6,13:13,23:45,Pomona Transit Center,Claremont Transit Center
+7,04:10,11:38,Montclair Transit Center,Hope and 9th
+8,13:18,22:23,Pomona Transit Center,Ridgeway and Valley
+9,04:15,12:02,Citrus Gold Line Station,El Monte Station
+10,13:18,23:19,Figueroa and 9th,San Dimas Park and Ride
+11,04:21,11:58,San Dimas Park and Ride,Hope and 9th
+12,13:20,22:48,Temple Ave and S. Campus Dr,Puente Hills Mall
+13,04:25,12:01,Montclair Transit Center,Hope and 9th
+14,13:23,22:17,El Monte Station,Citrus Gold Line Station
+15,04:30,12:43,Pomona Transit Center,Puente Hills Mall
+16,14:35,23:26,Citrus Gold Line Station,El Monte Station
+17,04:35,13:02,Puente Hills Mall,Beach and La Habra
+18,13:13,21:53,Pomona Transit Center,Puente Hills Mall
+19,04:40,12:57,Temple Ave and S. Campus Dr,El Monte Station
+20,14:35,22:58,Puente Hills Mall,Beach and La Habra
+21,04:44,13:43,Industry Park & Ride,Hope and 9th
+22,14:10,22:22,Temple Ave and S. Campus Dr,El Monte Station
+23,04:50,12:35,Pomona Transit Center,Puente Hills Mall
+24,14:55,00:42,Temple Ave and S. Campus Dr,El Monte Station
+25,05:10,13:38,Montclair Transit Center,El Monte Station
+26,14:33,23:50,Figueroa and 9th,San Dimas Park and Ride
+27,15:00,00:26,Pomona Transit Center,Montclair Transit Center
+28,15:01,22:49,Pomona Transit Center,Ridgeway and Valley
+29,15:25,01:05,Temple Ave and S. Campus Dr,El Monte Station
+30,15:35,01:13,Citrus Gold Line Station,El Monte Station
+31,15:43,00:05,Montclair Transit Center,El Monte Station
+32,16:05,23:45,Pomona Transit Center,Ridgeway and Valley
+33,16:13,00:03,Pomona Transit Center,Puente Hills Mall
+34,07:47,19:39,Montclair Transit Center,Hope and 9th
+35,08:59,20:12,Temple Ave and S. Campus Dr,El Monte Station
+36,09:10,20:22,Temple Ave and S. Campus Dr,El Monte Station
+37,05:30,19:05,Montclair Transit Center,Hope and 9th
+38,05:30,19:09,Pomona Transit Center,Brea Mall Transit Center
+39,05:30,19:04,Montclair Transit Center,El Monte Station
+40,05:30,19:03,Citrus Gold Line Station,El Monte Station
+41,05:42,19:18,Montclair Transit Center,Hope and 9th
+42,05:46,19:23,Temple Ave and S. Campus Dr,El Monte Station
+43,05:50,19:10,Montclair Transit Center,El Monte Station
+44,05:50,19:19,Pomona Transit Center,Montclair Transit Center
+45,05:50,19:25,Pomona Transit Center,Puente Hills Mall
+46,05:55,19:35,Ridgeway and Valley,Pomona Transit Center
+47,05:55,19:33,Montclair Transit Center,Pomona Transit Center
+48,05:58,19:38,Montclair Transit Center,Hope and 9th
+49,06:05,19:42,Pomona Transit Center,Ridgeway and Valley
+50,06:10,19:34,Pomona Transit Center,Puente Hills Mall
+51,06:11,19:47,Temple Ave and S. Campus Dr,El Monte Station
+52,06:11,19:05,Montclair Transit Center,El Monte Station
+53,06:13,19:51,Montclair Transit Center,Hope and 9th
+54,06:17,19:54,Pomona Transit Center,Montclair Transit Center
+55,06:30,19:58,Pomona Transit Center,Claremont Transit Center
+56,06:31,20:02,Montclair Transit Center,Hope and 9th
+57,06:32,20:07,Montclair Transit Center,El Monte Station
+58,07:05,20:44,Claremont Transit Center,Mountain and Harrison
+59,07:40,20:42,Towne and Marketplace,Durward and D St
+60,04:20,13:48,El Monte Station,Montclair Transit Center
+61,13:53,19:19,El Monte Station,Citrus Gold Line Station
+62,05:22,17:05,San Dimas Park and Ride,Hope and 9th
+63,17:17,22:59,Durward and D St,Towne and Marketplace
+64,03:40,13:28,Montclair Transit Center,Hope and 9th
+65,03:50,14:38,Montclair Transit Center,El Monte Station
+66,03:55,13:38,Grand Ave Park and Ride,Hope and 9th
+67,03:55,14:58,Montclair Transit Center,Hope and 9th
+68,04:00,13:02,Puente Hills Mall,El Monte Station
+69,04:05,13:45,Puente Hills Mall,Pomona Transit Center
+70,04:00,13:28,Grand Ave Park and Ride,Hope and 9th
+71,04:10,15:34,Temple Ave and S. Campus Dr,El Monte Station
+72,04:25,14:06,El Monte Station,Temple Ave and S. Campus Dr
+73,04:25,13:39,Temple Ave and S. Campus Dr,El Monte Station
+74,04:26,14:02,Industry Park & Ride,Hope and 9th
+75,04:30,13:56,Montclair Transit Center,El Monte Station
+76,04:42,15:26,Montclair Transit Center,Hope and 9th
+77,04:50,13:58,Montclair Transit Center,El Monte Station
+78,04:55,15:10,Temple Ave and S. Campus Dr,El Monte Station
+79,04:55,16:18,Montclair Transit Center,Pomona Transit Center
+80,04:55,15:15,Pomona Transit Center,Montclair Transit Center
+81,04:58,16:38,San Dimas Park and Ride,Hope and 9th
+82,05:06,17:01,Montclair Transit Center,Hope and 9th
+83,05:10,16:17,Grand Ave Park and Ride,Hope and 9th
+84,05:10,15:38,Pomona Transit Center,Puente Hills Mall
+85,05:23,14:38,Pomona Transit Center,Montclair Transit Center
+86,05:30,17:39,Claremont Transit Center,Pomona Transit Center
+87,05:30,17:30,Pomona Transit Center,Claremont Transit Center
+88,05:30,16:50,Pomona Transit Center,Puente Hills Mall
+89,05:34,16:02,Temple Ave and S. Campus Dr,El Monte Station
+90,10:08,20:32,Temple Ave and S. Campus Dr,El Monte Station
+91,10:13,21:33,Pomona Transit Center,Montclair Transit Center
+92,10:30,20:23,Temple Ave and S. Campus Dr,El Monte Station
+93,10:56,21:02,Temple Ave and S. Campus Dr,El Monte Station
+94,11:07,20:52,Pomona Transit Center,Montclair Transit Center
+95,11:08,21:06,El Monte Station,Temple Ave and S. Campus Dr
+96,11:23,20:51,Montclair Transit Center,El Monte Station
+97,11:40,21:56,Citrus Gold Line Station,El Monte Station
+98,11:50,20:46,El Monte Station,Temple Ave and S. Campus Dr
+99,11:53,22:02,El Monte Station,Temple Ave and S. Campus Dr
+100,12:03,21:49,Temple Ave and S. Campus Dr,Puente Hills Mall
+101,12:05,21:01,Pomona Transit Center,Ridgeway and Valley
+102,12:07,22:01,Pomona Transit Center,Montclair Transit Center
+103,12:20,23:02,Temple Ave and S. Campus Dr,Puente Hills Mall
+104,12:23,23:17,El Monte Station,Temple Ave and S. Campus Dr
+105,12:35,22:32,Citrus Gold Line Station,El Monte Station
+106,12:35,21:21,Figueroa and 9th,Montclair Transit Center
+107,12:37,22:57,Pomona Transit Center,Puente Hills Mall
+108,12:41,21:55,Puente Hills Mall,El Monte Station
+109,12:50,22:19,El Monte Station,Montclair Transit Center
+110,03:15,09:50,Citrus Gold Line Station,El Monte Station
+111,03:20,14:15,Durward and D St,Towne and Marketplace
+112,03:25,13:58,Towne and Marketplace,Durward and D St
+113,03:50,17:23,Durward and D St,Towne and Marketplace
+114,03:55,17:24,Industry Park & Ride,Hope and 9th
+115,03:55,14:16,El Monte Station,Temple Ave and S. Campus Dr
+116,03:55,16:35,Towne and Marketplace,Durward and D St
+117,04:10,15:52,Industry Park & Ride,Hope and 9th
+118,04:10,17:21,El Monte Station,Temple Ave and S. Campus Dr
+119,04:10,15:47,Montclair Transit Center,El Monte Station
+120,04:15,17:39,El Monte Station,Puente Hills Mall
+121,04:20,17:54,Beach and La Habra,Puente Hills Mall
+122,04:30,17:56,Covina Transit Center,Hope and 9th
+123,04:34,18:11,San Dimas Park and Ride,Hope and 9th
+124,04:40,18:11,Puente Hills Mall,Pomona Transit Center
+125,04:52,18:05,Montclair Transit Center,Hope and 9th
+126,04:55,18:02,Ridgeway and Valley,Pomona Transit Center
+127,05:00,18:19,Durward and D St,Towne and Marketplace
+128,05:00,18:09,Claremont Transit Center,Pomona Transit Center
+129,05:04,18:31,Citrus Gold Line Station,El Monte Station
+130,05:04,18:39,Industry Park & Ride,Hope and 9th
+131,05:05,18:24,Towne and Marketplace,Durward and D St
+132,05:05,18:38,Pomona Transit Center,Ridgeway and Valley
+133,05:05,17:31,Brea Mall Transit Center,Pomona Transit Center
+134,05:10,18:31,Temple Ave and S. Campus Dr,El Monte Station
+135,05:15,18:52,Puente Hills Mall,El Monte Station
+136,05:18,18:47,Montclair Transit Center,Hope and 9th
+137,05:22,18:59,Temple Ave and S. Campus Dr,El Monte Station
+138,05:24,19:03,Industry Park & Ride,Hope and 9th
+139,05:25,19:01,Montclair Transit Center,Pomona Transit Center
+140,08:24,21:59,Towne and Marketplace,Durward and D St
+141,08:55,22:32,Durward and D St,Towne and Marketplace
+142,09:00,22:29,Towne and Marketplace,Durward and D St
+143,04:40,10:38,Citrus Gold Line Station,El Monte Station
+144,12:00,21:04,Pomona Transit Center,Puente Hills Mall

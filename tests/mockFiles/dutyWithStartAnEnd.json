@@ -1,0 +1,115 @@
+{
+  "dutyVehicles": [
+    {
+      "vehicle_event_sequence": "0",
+      "vehicle_event_type": "pre_trip",
+      "start_time": "0.03:25",
+      "end_time": "0.03:45",
+      "origin_stop_id": "Pomona",
+      "destination_stop_id": "Pomona",
+      "duty_id": "1"
+    },
+    {
+      "vehicle_event_sequence": "1",
+      "vehicle_event_type": "depot_pull_out",
+      "start_time": "0.03:45",
+      "end_time": "0.04:00",
+      "origin_stop_id": "Pomona",
+      "destination_stop_id": "MTC",
+      "duty_id": "1"
+    },
+    {
+      "vehicle_event_sequence": "2",
+      "vehicle_event_type": "service_trip",
+      "trip_id": "5301688",
+      "duty_id": "1"
+    },
+    {
+      "vehicle_event_sequence": "3",
+      "vehicle_event_type": "deadhead",
+      "start_time": "0.05:12",
+      "end_time": "0.05:47",
+      "origin_stop_id": "9thHo",
+      "destination_stop_id": "EMSLO",
+      "duty_id": "1"
+    },
+    {
+      "vehicle_event_sequence": "4",
+      "vehicle_event_type": "deadhead",
+      "start_time": "0.05:58",
+      "end_time": "0.06:00",
+      "origin_stop_id": "EMSLO",
+      "destination_stop_id": "EMS",
+      "duty_id": "1"
+    },
+    {
+      "vehicle_event_sequence": "5",
+      "vehicle_event_type": "service_trip",
+      "trip_id": "5301535",
+      "duty_id": "1"
+    },
+    {
+      "vehicle_event_sequence": "6",
+      "vehicle_event_type": "deadhead",
+      "start_time": "0.07:37",
+      "end_time": "0.07:39",
+      "origin_stop_id": "MTC",
+      "destination_stop_id": "MTCLO",
+      "duty_id": "1"
+    },
+    {
+      "vehicle_event_sequence": "7",
+      "vehicle_event_type": "deadhead",
+      "start_time": "0.07:58",
+      "end_time": "0.08:00",
+      "origin_stop_id": "MTCLO",
+      "destination_stop_id": "MTC",
+      "duty_id": "1"
+    },
+    {
+      "vehicle_event_sequence": "8",
+      "vehicle_event_type": "service_trip",
+      "trip_id": "5301731",
+      "duty_id": "1"
+    },
+    {
+      "vehicle_event_sequence": "9",
+      "vehicle_event_type": "deadhead",
+      "start_time": "0.08:50",
+      "end_time": "0.08:52",
+      "origin_stop_id": "PTC",
+      "destination_stop_id": "PTCLO",
+      "duty_id": "1"
+    },
+    {
+      "vehicle_event_sequence": "10",
+      "vehicle_event_type": "deadhead",
+      "start_time": "0.09:28",
+      "end_time": "0.09:30",
+      "origin_stop_id": "PTCLO",
+      "destination_stop_id": "PTC",
+      "duty_id": "1"
+    },
+    {
+      "vehicle_event_sequence": "11",
+      "vehicle_event_type": "service_trip",
+      "trip_id": "5302166",
+      "duty_id": "1"
+    },
+    {
+      "vehicle_event_sequence": "12",
+      "vehicle_event_type": "service_trip",
+      "trip_id": "5302173",
+      "duty_id": "1"
+    },
+    {
+      "vehicle_event_sequence": "13",
+      "vehicle_event_type": "depot_pull_in",
+      "start_time": "0.11:29",
+      "end_time": "0.11:39",
+      "origin_stop_id": "PTC",
+      "destination_stop_id": "Pomona",
+      "duty_id": "1"
+    }
+  ]
+}

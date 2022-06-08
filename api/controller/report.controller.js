@@ -17,7 +17,7 @@ const { SERVICE_TRIP } = require("../../utils/constants");
 const ReportControler = {
     returnShortReport(req, res, next) {
         const { vehicles, duties } = req;
-        const allDuties = duties.getAllDuties();//.slice(57,59);
+        const allDuties = duties.getAllDuties();
         const shortReportDuty = [];
         allDuties.forEach(duty => {
             let dutyEvents =  duty.duty_events;

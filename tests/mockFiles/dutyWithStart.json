@@ -1,0 +1,109 @@
+{
+  "duties": [
+    {
+      "duty_id": "59",
+      "duty_events": [
+        {
+          "duty_event_sequence": "0",
+          "duty_event_type": "sign_on",
+          "start_time": "0.07:40",
+          "end_time": "0.07:45",
+          "origin_stop_id": "Pomona",
+          "destination_stop_id": "Pomona"
+        },
+        {
+          "duty_event_sequence": "1",
+          "duty_event_type": "taxi",
+          "start_time": "0.07:45",
+          "end_time": "0.08:00",
+          "origin_stop_id": "Pomona",
+          "destination_stop_id": "ToMa"
+        },
+        {
+          "duty_event_sequence": "2",
+          "duty_event_type": "vehicle_event",
+          "vehicle_event_sequence": 7,
+          "vehicle_id": "90003"
+        },
+        {
+          "duty_event_sequence": "3",
+          "duty_event_type": "vehicle_event",
+          "vehicle_event_sequence": 8,
+          "vehicle_id": "90003"
+        },
+        {
+          "duty_event_sequence": "4",
+          "duty_event_type": "vehicle_event",
+          "vehicle_event_sequence": 9,
+          "vehicle_id": "90003"
+        },
+        {
+          "duty_event_sequence": "5",
+          "duty_event_type": "vehicle_event",
+          "vehicle_event_sequence": 10,
+          "vehicle_id": "90003"
+        },
+        {
+          "duty_event_sequence": "6",
+          "duty_event_type": "taxi",
+          "start_time": "0.11:47",
+          "end_time": "0.12:02",
+          "origin_stop_id": "ToMa",
+          "destination_stop_id": "Pomona"
+        },
+        {
+          "duty_event_sequence": "7",
+          "duty_event_type": "sign_on",
+          "start_time": "0.15:07",
+          "end_time": "0.15:12",
+          "origin_stop_id": "Pomona",
+          "destination_stop_id": "Pomona"
+        },
+        {
+          "duty_event_sequence": "8",
+          "duty_event_type": "taxi",
+          "start_time": "0.15:12",
+          "end_time": "0.15:32",
+          "origin_stop_id": "Pomona",
+          "destination_stop_id": "DuDs"
+        },
+        {
+          "duty_event_sequence": "9",
+          "duty_event_type": "vehicle_event",
+          "vehicle_event_sequence": 7,
+          "vehicle_id": "90111"
+        },
+        {
+          "duty_event_sequence": "10",
+          "duty_event_type": "vehicle_event",
+          "vehicle_event_sequence": 8,
+          "vehicle_id": "90111"
+        },
+        {
+          "duty_event_sequence": "11",
+          "duty_event_type": "vehicle_event",
+          "vehicle_event_sequence": 9,
+          "vehicle_id": "90111"
+        },
+        {
+          "duty_event_sequence": "12",
+          "duty_event_type": "vehicle_event",
+          "vehicle_event_sequence": 10,
+          "vehicle_id": "90111"
+        },
+        {
+          "duty_event_sequence": "13",
+          "duty_event_type": "vehicle_event",
+          "vehicle_event_sequence": 11,
+          "vehicle_id": "90111"
+        },
+        {
+          "duty_event_sequence": "14",
+          "duty_event_type": "vehicle_event",
+          "vehicle_event_sequence": 12,
+          "vehicle_id": "90111"
+        }
+      ]
+    }
+  ]
+}

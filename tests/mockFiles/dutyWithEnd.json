@@ -1,0 +1,93 @@
+{
+  "duties": [
+    {
+      "duty_id": "122",
+      "duty_events": [
+        {
+          "duty_event_sequence": "0",
+          "duty_event_type": "vehicle_event",
+          "vehicle_event_sequence": 0,
+          "vehicle_id": "30"
+        },
+        {
+          "duty_event_sequence": "1",
+          "duty_event_type": "vehicle_event",
+          "vehicle_event_sequence": 1,
+          "vehicle_id": "30"
+        },
+        {
+          "duty_event_sequence": "2",
+          "duty_event_type": "vehicle_event",
+          "vehicle_event_sequence": 2,
+          "vehicle_id": "30"
+        },
+        {
+          "duty_event_sequence": "3",
+          "duty_event_type": "vehicle_event",
+          "vehicle_event_sequence": 3,
+          "vehicle_id": "30"
+        },
+        {
+          "duty_event_sequence": "4",
+          "duty_event_type": "vehicle_event",
+          "vehicle_event_sequence": 4,
+          "vehicle_id": "30"
+        },
+        {
+          "duty_event_sequence": "5",
+          "duty_event_type": "vehicle_event",
+          "vehicle_event_sequence": 5,
+          "vehicle_id": "30"
+        },
+        {
+          "duty_event_sequence": "6",
+          "duty_event_type": "sign_on",
+          "start_time": "0.13:20",
+          "end_time": "0.13:25",
+          "origin_stop_id": "Pomona",
+          "destination_stop_id": "Pomona"
+        },
+        {
+          "duty_event_sequence": "7",
+          "duty_event_type": "taxi",
+          "start_time": "0.13:25",
+          "end_time": "0.13:40",
+          "origin_stop_id": "Pomona",
+          "destination_stop_id": "ToMa"
+        },
+        {
+          "duty_event_sequence": "8",
+          "duty_event_type": "vehicle_event",
+          "vehicle_event_sequence": 13,
+          "vehicle_id": "90008"
+        },
+        {
+          "duty_event_sequence": "9",
+          "duty_event_type": "vehicle_event",
+          "vehicle_event_sequence": 14,
+          "vehicle_id": "90008"
+        },
+        {
+          "duty_event_sequence": "10",
+          "duty_event_type": "vehicle_event",
+          "vehicle_event_sequence": 15,
+          "vehicle_id": "90008"
+        },
+        {
+          "duty_event_sequence": "11",
+          "duty_event_type": "vehicle_event",
+          "vehicle_event_sequence": 16,
+          "vehicle_id": "90008"
+        },
+        {
+          "duty_event_sequence": "12",
+          "duty_event_type": "taxi",
+          "start_time": "0.17:41",
+          "end_time": "0.17:56",
+          "origin_stop_id": "ToMa",
+          "destination_stop_id": "Pomona"
+        }
+      ]
+    }
+  ]
+}

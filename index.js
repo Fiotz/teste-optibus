@@ -9,6 +9,6 @@ const server = http.createServer(app);
 server.listen(
     port,
     () => { 
-        console.log(`Alive on http://localhost:${port}`);
+        //console.log(`Alive on http://localhost:${port}`);
     },
 );
